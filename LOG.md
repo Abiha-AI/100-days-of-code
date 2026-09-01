@@ -8,6 +8,11 @@ Learned: if/else, elif, and/or operators.
 Time: 40 min
 File: week-02-if-else/day-02.py
 
+## Day 03 — Sep 1, 2026
+Learned: if/elif/else with ranges, float(input()), BMI calculation.
+Time: 30 min
+File: week-02-if-else/day-03.py
+
 ## Day 04 — Sep 1, 2026
 Learned: Boolean logic with and/or/not. Built transportation decision tree.
 Time: 25 min
