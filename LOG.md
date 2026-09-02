@@ -17,3 +17,8 @@ File: week-02-if-else/day-03.py
 Learned: Boolean logic with and/or/not. Built transportation decision tree.
 Time: 25 min
 File: week-02-if-else/day-04.py
+
+## Day 05 — Sep 2, 2026
+Learned: Menu-driven if/elif/else, nested if for divide-by-zero check.
+Time: 30 min
+File: week-02-if-else/day-05.py
