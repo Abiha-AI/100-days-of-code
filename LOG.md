@@ -22,3 +22,8 @@ File: week-02-if-else/day-04.py
 Learned: Menu-driven if/elif/else, nested if for divide-by-zero check.
 Time: 30 min
 File: week-02-if-else/day-05.py
+
+## Day 06 — Sep 3, 2026
+Learned: for loop, range(), building a multiplication table.
+Time: 25 min
+File: week-03-loops/day-06.py
