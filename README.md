@@ -10,8 +10,8 @@
 | Week | Topic | Days Done |
 |------|-------|-----------|
 | Week 1 | Variables, Input, Print | 2/5 |
-| Week 2 | If/Else, Comparisons | 3/5 |
-| Week 3 | Loops (For, While) | 0/5 |
+| Week 2 | If/Else, Comparisons | 5/5 |
+| Week 3 | Loops (For, While) | 1/5 |
 | Week 4 | Functions | 0/5 |
 | Week 5 | Strings & Lists | 0/5 |
 | Week 6 | Dictionaries & Tuples | 0/5 |
