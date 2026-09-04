@@ -27,3 +27,8 @@ File: week-02-if-else/day-05.py
 Learned: for loop, range(), building a multiplication table.
 Time: 25 min
 File: week-03-loops/day-06.py
+
+## Day 07 — Sep 4, 2026
+Learned: while loop, len(), string iteration, isdigit().
+Time: 25 min
+File: week-03-loops/day-07.py
