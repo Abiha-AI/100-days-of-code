@@ -8,3 +8,12 @@ while len(password) < 6:
     password = input("Create a password (min 6 chars): ")
 
 print("Password accepted!")
+has_digit = False
+for char in password:
+    if char.isdigit():
+        has_digit = True
+
+if has_digit:
+    print("Strength: Medium")
+else:
+    print("Strength: Weak (add a number)")
