@@ -32,3 +32,8 @@ File: week-03-loops/day-06.py
 Learned: while loop, len(), string iteration, isdigit().
 Time: 25 min
 File: week-03-loops/day-07.py
+
+## Day 08 — Sep 7, 2026
+Learned: while loop with counter, break statement, combining loops with if/else.
+Time: 25 min
+File: week-03-loops/day-08.py
