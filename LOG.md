@@ -37,3 +37,8 @@ File: week-03-loops/day-07.py
 Learned: while loop with counter, break statement, combining loops with if/else.
 Time: 25 min
 File: week-03-loops/day-08.py
+
+## Day 09 — Sep 10, 2026
+Learned: while True loop, break statement, running totals with +=.
+Time: 25 min
+File: week-03-loops/day-09.py
